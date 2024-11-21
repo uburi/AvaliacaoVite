@@ -25,3 +25,15 @@ A performance é um dos pilares do projeto. Algumas das principais consideraçõ
 Uso de operações assíncronas: A solução utiliza métodos assíncronos para garantir que a aplicação não se torne bloqueante, especialmente ao recuperar dados ou gerar arquivos KML. Isso é crucial quando lidamos com grandes volumes de dados ou operações de I/O (como leitura/escrita de arquivos).
 
 Armazenamento dos dados oriundos do KML me cache: Utilizando o Memory Cache os dados oriundos são armazenados e enquanto a aplicação se manter sem alterações ele irá se manter usando os dados em cache, os dados são carregados na primeira consulta e permeados.
+
+# Endpoints da API
+O projeto disponibiliza os seguintes endpoints para interação com os dados de Placemarks:
+
+GET /api/placemark
+Recupera todos os Placemarks, com possibilidade de filtragem via parâmetros de query (como Cliente, Situação, Bairro, etc.).
+
+POST /api/placemark/export
+Gera e retorna todos os Placemarks em um arquivo KML, com base nos filtros fornecidos.
+
+GET /api/placemark/filters
+Retorna os filtros únicos para cada campo, permitindo ao usuário saber os valores possíveis para cada parâmetro.
