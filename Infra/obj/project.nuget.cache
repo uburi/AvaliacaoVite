@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKZpy+FLkks=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Geovane\\Documents\\DirecionadorVite\\Infra\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geovane\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Geovane\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\Geovane\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\Geovane\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Geovane\\.nuget\\packages\\system.runtime.caching\\9.0.0\\system.runtime.caching.9.0.0.nupkg.sha512",
+    "C:\\Users\\Geovane\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Geovane\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512",
+    "C:\\Users\\Geovane\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
