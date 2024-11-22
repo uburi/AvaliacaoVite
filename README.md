@@ -1,4 +1,4 @@
-# AvaliacaoVite
+# AvaliacaoVibe
  
 Este projeto tem como objetivo gerenciar e exportar dados de Placemarks para um arquivo KML, com foco na performance, escalabilidade e boa arquitetura de software. 
 O projeto se deu como um desafio proposto pela Vite Tecnologia.
